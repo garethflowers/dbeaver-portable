@@ -1,9 +1,8 @@
 # DBeaver Portable
 
-DBeaver is a code editor redefined and optimized for building and
-debugging modern web and cloud applications.
+DBeaver is a free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix, Presto, etc.
 
-DBeaver Portable is the DBeaver text editor packaged with
+DBeaver Portable is the DBeaver database tool packaged with
 a PortableApps.com launcher as a portable app, so you can browse in privacy on
 your iPod, USB flash drive, portable hard drive, etc. It has all the same
 features as DBeaver, plus, it leaves no personal information behind
